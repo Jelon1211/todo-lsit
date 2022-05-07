@@ -50,7 +50,7 @@ function removeList() {
   }
 }
 
-//dokonczyc
+//dokonczyc loalStorage
 const person = {
   name: "jelon",
   location: "bb",
