@@ -50,7 +50,7 @@ function removeList() {
   }
 }
 
-//dokonczyc loalStorage
+//dokonczyc loalStorage odebrac
 const person = {
   name: "jelon",
   location: "bb",
